@@ -3,7 +3,7 @@ import time
 
 print("Do you want to live The begining: type 'y'")
 ask_for_begining = input(": ")
-if ask_for_begining == 'y': import The_begining
+if ask_for_begining == 'y': import The_Beginning
 time.sleep(1)
 print("....")
 time.sleep(2)
@@ -533,3 +533,4 @@ while health > 0:
         
 print("\n\nLeaving the RPG Simulation...")
 time.sleep(5)
+
